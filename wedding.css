@@ -1,0 +1,128 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #ffdddd;
+    font-family: "Raleway", sans-serif;
+    
+}
+*{ 
+    margin: 0;
+    padding: 0;
+}
+/* home */
+.home{
+    position: relative;
+}
+.home1 img{
+    width:100%;
+    vertical-align: center;
+    filter: grayscale(50%);
+}
+.home2 {
+    text-align: center;
+    top: -510px;
+    position: relative;
+    color: white;
+    letter-spacing: 4px;
+
+}
+.home2 h1{
+    font-size: 60px;
+    padding-bottom: 25px;
+}
+.home2 h2{
+    padding-bottom: 25px;
+   
+}
+.home2 p{
+    font-size: 30px;
+}
+/* jane & john */
+.jane{
+     width: 100%;
+}
+.jane h1{
+    text-align: center;
+    margin-top: -100px;
+    color: #757575;
+  
+}
+.img1{
+    width: 100%;
+    
+}
+.img1 img{
+    width:970px;
+    margin: 30px 20px;
+
+}
+.img1 p{
+    text-align: justify;
+    margin: 20px;
+}
+.img1 button{
+    width: fit-content;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-left:420px;
+    border:  solid 1px black;
+    padding: 10px 25px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+
+}
+.img1 button:hover{
+    background-color: silver;
+    color:black;
+    border: solid 1px silver;
+}
+/* nav bar */
+/*
+.navbar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+.navbar ul {
+    background-color: silver;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width:100%
+
+}
+.navbar li{
+    list-style: none;
+    padding: 10px 90px;
+    text-align: center;
+    cursor: pointer;
+}
+.navbar li:first-of-type {
+    margin-left: 15px;
+}
+
+.navbar li:last-of-type {
+   margin-right: 15px;
+}
+.navbar li:last-of-type:hover{
+    background-color: black;
+    color: white;
+}
+.navbar ul:hover {
+    background-color: white;
+}
+.navbar ul li:hover {
+    background-color: rgb(156, 156, 156);
+}
+*/
